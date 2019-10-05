@@ -1,0 +1,12 @@
+
+<script>
+window.gameName = "<%= @name %>";
+</script>
+
+<h1>
+  Memory
+</h1>
+<p> game </p>
+<div id = "root">
+  React COmponent Loading......
+</div>
